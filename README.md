@@ -153,3 +153,29 @@ Terraform enables repeatable, auditable IAM security
 
 
 
+**Tools Used**
+
+AWS IAM
+
+AWS CLI
+
+Terraform
+
+JSON IAM Policies
+
+
+
+**Skills Demonstrated
+**
+IAM privilege escalation analysis
+
+Cloud attack simulation
+
+Least-privilege policy design
+
+Permission boundary enforcement
+
+Terraform security automation
+
+Cloud security documentation
+
